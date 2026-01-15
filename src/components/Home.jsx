@@ -4,7 +4,7 @@ import { QRCodeSVG } from 'qrcode.react';
 
 function Home() {
 
-    const qrValue = `https://registration-6ncxd4xw2-nytmate.vercel.app/register`;
+    const qrValue = `https://registration-6ncxd4xw2-nytmate/register`;
   return (
     <div className="text-center">
       <h1 className="text-3xl font-bold mb-4">Scan to Register</h1>
